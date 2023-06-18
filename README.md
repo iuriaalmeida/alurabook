@@ -9,3 +9,5 @@
 * SwiperJS
 
 ## Screenshots
+
+![Screenshot da tela inicial do AluraBooks](https://uploaddeimagens.com.br/images/004/511/121/original/AluraBooks.png?1687107305)
